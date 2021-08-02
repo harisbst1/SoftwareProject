@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Main-Class: Combination.Main
+Class-Path: slf4j-api-1.7.5.jar slf4j-log4j12-1.7.5.jar slf4j-api-1.7.5.
+ jar log4j-1.2.17.jar annotations-19.0.0.jar json-20200518.jar firebase-
+ admin-7.0.1.jar google-api-client-1.30.10.jar google-oauth-client-1.31.
+ 0.jar google-http-client-jackson2-1.36.0.jar google-api-client-gson-1.3
+ 0.10.jar google-http-client-gson-1.36.0.jar google-http-client-1.35.0.j
+ ar httpclient-4.5.12.jar httpcore-4.4.13.jar jsr305-3.0.2.jar j2objc-an
+ notations-1.3.jar opencensus-api-0.24.0.jar opencensus-contrib-http-uti
+ l-0.24.0.jar api-common-1.9.2.jar javax.annotation-api-1.3.2.jar auto-v
+ alue-annotations-1.7.2.jar google-auth-library-oauth2-http-0.20.0.jar g
+ oogle-auth-library-credentials-0.20.0.jar google-cloud-storage-1.110.0.
+ jar failureaccess-1.0.1.jar listenablefuture-9999.0-empty-to-avoid-conf
+ lict-with-guava.jar checker-compat-qual-2.5.5.jar error_prone_annotatio
+ ns-2.3.4.jar jackson-core-2.11.0.jar google-api-services-storage-v1-rev
+ 20200430-1.30.9.jar gson-2.8.6.jar google-cloud-core-1.93.6.jar proto-g
+ oogle-common-protos-1.18.0.jar google-cloud-core-http-1.93.6.jar google
+ -http-client-appengine-1.35.0.jar gax-httpjson-0.74.0.jar gax-1.57.0.ja
+ r grpc-context-1.30.0.jar proto-google-iam-v1-0.13.0.jar protobuf-java-
+ 3.12.2.jar protobuf-java-util-3.12.2.jar threetenbp-1.4.4.jar google-cl
+ oud-firestore-1.35.0.jar google-cloud-core-grpc-1.93.6.jar grpc-core-1.
+ 30.0.jar annotations-4.1.1.4.jar perfmark-api-0.19.0.jar commons-loggin
+ g-1.2.jar commons-codec-1.11.jar proto-google-cloud-firestore-admin-v1-
+ 1.35.0.jar proto-google-cloud-firestore-v1-1.35.0.jar proto-google-clou
+ d-firestore-v1beta1-0.88.0.jar opencensus-contrib-grpc-util-0.24.0.jar 
+ grpc-protobuf-1.30.0.jar grpc-protobuf-lite-1.30.0.jar animal-sniffer-a
+ nnotations-1.18.jar grpc-api-1.30.0.jar gax-grpc-1.57.0.jar grpc-auth-1
+ .30.0.jar grpc-netty-shaded-1.30.0.jar grpc-alts-1.30.0.jar grpc-grpclb
+ -1.30.0.jar commons-lang3-3.5.jar conscrypt-openjdk-uber-2.2.1.jar grpc
+ -stub-1.30.0.jar guava-29.0-android.jar slf4j-api-1.7.25.jar netty-code
+ c-http-4.1.50.Final.jar netty-common-4.1.50.Final.jar netty-buffer-4.1.
+ 50.Final.jar netty-codec-4.1.50.Final.jar netty-handler-4.1.50.Final.ja
+ r netty-resolver-4.1.50.Final.jar netty-transport-4.1.50.Final.jar java
+ x.json-api-1.0.jar mssql-jdbc-9.2.1.jre11
+
